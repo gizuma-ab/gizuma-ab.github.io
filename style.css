@@ -1,3 +1,10 @@
 body {
 	background: black;
 }
+#logo {
+	width: 30%;
+	max-width: 500px;
+}
+.h {
+	display: none;
+}
