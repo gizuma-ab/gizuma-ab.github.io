@@ -1,5 +1,5 @@
 body {
-	padding-top: 10%;
+	padding-top: 7%;
 	background: black;
 	color: white;
 }
@@ -8,6 +8,7 @@ p {
 }
 #logo {
 	width: 30%;
+	min-width: 200px;
 	max-width: 500px;
 	display: block;
     	margin-left: auto;
